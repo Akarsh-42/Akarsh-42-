@@ -2,7 +2,7 @@
   <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="banner"/>
 </div>
 
-<h3 align="center">building-shipping-repeating</h3>
+<h3 align="center">⚡ building things that think</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/akarsh-mohanty-718893286"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,26 +11,19 @@
 
 ---
 
-### ~$ whoami
+> still early, still hungry — learning fast and shipping faster.
 
-AI/ML engineer in the making. I build systems that learn instead of just running — by day I'm shipping automation pipelines, by night I'm training models that actually work.
+**currently:** training models by night, breaking automation pipelines by day (then fixing them)
 
-### ~$ ls ~/projects
+**building:**
+- 🤖 a RAG chatbot that actually answers instead of hallucinating (`webchat-rag`)
+- ⚽ a fully automated YouTube Shorts pipeline for football content — zero manual editing
+- 📈 an RL agent that's trying (and mostly failing) to beat the market
 
-- **webchat-rag** — RAG chatbot: LangChain + FAISS + Groq's LLaMA, deployed on Streamlit
-- **ai-football-content-pipeline** — fully automated YouTube Shorts pipeline (API Football → Groq → Creatomate → auto-upload)
-- **rl-trading-agent** — reinforcement learning meets the market
+**runtime:** `Python` `JavaScript` `FastAPI` `Docker` `PyTorch` `LangChain` `n8n` `Make.com`
 
-### ~$ cat ~/stack
-
-Python · JavaScript · FastAPI · Docker · PyTorch · LangChain · n8n · Make.com
-
-### ~$ cat ~/next
-
-- dynamic real visuals for the shorts pipeline (team logos, player photos, stadium backgrounds)
-- landing an AI/ML internship
-- shipping more end-to-end automation
+**next up:** real visuals in the shorts pipeline (team logos, player shots, stadium cuts) + landing an AI/ML internship
 
 ---
 
-<p align="center"><i>stack overflow by day, stack builder by night</i></p>
+<p align="center"><i>if it's not automated yet, give it a week</i></p>
